@@ -1,5 +1,9 @@
 # Logs
 logs
+
+vendor
+dist
+bin
 *.log
 
 # Runtime data

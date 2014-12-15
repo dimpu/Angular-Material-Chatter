@@ -1,0 +1,16 @@
+{
+  "name": "Chatter",
+  "version": "0.0.1",
+  "description": "chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "author": "aravind buddha",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-closure-tools": "^0.9.7"
+  }
+}
